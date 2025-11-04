@@ -33,7 +33,7 @@ Perfect for professionals dealing with massive storage systems or anyone seeking
 To install **volscan**, simply clone the repository and follow the instructions below:
 
 ```bash
-git clone git@github.com:trinhminhtriet/volscan.git
+git clone git@github.com:davidakpele/volscan.git
 cd volscan
 
 cargo build --release
